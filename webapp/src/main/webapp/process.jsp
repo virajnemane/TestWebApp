@@ -10,8 +10,9 @@
  
 <h1>Form Processing</h1>
  
-<p><b>Welcome User:</b>
-   <%= request.getParameter("username")%>
+<p><b>Welcome </b>
+   <%= request.getParameter("fname")%>
+    <%= request.getParameter("lname")%>
 </p>
  
 </body>
