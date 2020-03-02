@@ -8,9 +8,9 @@
 </head>
 <body>
 <form action="process.jsp" method="GET">
-First Name: <br /><br /><input type="text" name="fname">
+First Name: <br /><br /><br /><input type="text" name="fname">
 <br />
-Last Name: <br /><br /><input type="text" name="lname" />
+Last Name: <br /><br /><br /><input type="text" name="lname" />
 <input type="submit" value="Submit" />
 </form>
 </body>
